@@ -1,0 +1,2 @@
+# wagtail
+Django Wagtail CMS
